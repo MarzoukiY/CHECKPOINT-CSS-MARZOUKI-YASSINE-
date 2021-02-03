@@ -1,0 +1,40 @@
+main {
+  font-family: 'Roboto';font-size: 40px;
+  background-color: rgb(6, 19, 136);
+
+    }
+    li {
+      display: inline; 
+    }
+    
+   ul {
+     text-align: center;
+   }
+     p {
+     color: rgb(255, 255, 255); font-family: 'Boungee outline';text-align: center;
+
+     }
+   .image {
+    background-image: url("https://i5.walmartimages.ca/images/Large/841/831/6000200841831.jpg");
+      }
+    nav {
+      background-color: rgb(190, 26, 26);
+    }
+   a{
+     color: rgb(255, 255, 255);
+   }
+   select {
+     font-size: 50px;background-color: rgb(190, 26, 26); ;color: snow;font-family: fantasy;
+   }
+   option {
+     color: snow; font-family: fantasy;
+   }
+   menu{
+    color: snow; font-family: fantasy;
+   }
+   .pp {
+   font-size: 20px; font-family: serif;color: rgb(255, 255, 255);text-align: center;background-color: rgb(190, 26, 26);
+   }
+   footer {
+    background-color: rgb(190, 26, 26);
+}
